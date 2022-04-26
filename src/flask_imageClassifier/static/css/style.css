@@ -1,0 +1,28 @@
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+
+/*.parent {*/
+/*  display: flex;*/
+/*  !*flex-direction: column;*!*/
+/*  justify-content: center;*/
+/*}*/
+
+.parent {
+  background: white;
+  /*height: 300px;*/
+  /*width: 200px;*/
+  /*padding: 20px;*/
+  /*margin: 20px;*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  resize: vertical;
+  overflow: auto;
+}
+
+
