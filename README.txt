@@ -5,12 +5,9 @@ Demo flask project which involves both the building of a image classification mo
 
 Project Structure
 
-├── build                   # Compiled files (alternatively `dist`)
-├── docs                    # Documentation files (alternatively `doc`)
-├── src                     # Source files (alternatively `lib` or `app`)
-├── test                    # Automated tests (alternatively `spec` or `tests`)
-├── tools                   # Tools and utilities
-├── LICENSE
+├── build                   # Compiled files 
+├── src                     # Source files 
+├── test                    # Automated tests 
 └── README.md
 
 
